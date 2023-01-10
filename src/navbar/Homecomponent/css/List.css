@@ -1,0 +1,70 @@
+.article-box1{
+    width: 90%;
+    margin: auto;
+    margin-top: 70px;
+}
+.pagename{
+    width: 40%;
+    margin-top: 30px;
+    position: relative;
+    top: 50px;
+    left: 10%;
+
+}
+.td22{
+    font-weight: bold;
+}
+.td1{
+    height: 40px;
+    width: 100px;
+    text-align: center; 
+
+}
+.td2{
+    height: 40px;
+    width: 160px;
+    text-align: center; 
+
+}
+.td3{
+    height: 40px;
+    width: 140px;
+    text-align: center; 
+
+}
+.td4{
+    height: 40px;
+    width: 300px;
+    text-align: center; 
+
+}
+.td5{
+    height: 40px;
+    width: 200px;
+    text-align: center; 
+
+}
+.td6{
+    height: 40px;
+    width: 160px;
+    text-align: center; 
+
+}
+
+.edit1{
+    margin-left: -170px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: blue;
+}
+.delete1{
+    margin-left: -40px;
+    margin-top: 25px;
+    cursor: pointer;   
+}
+
+.searchblog1{
+    width: 200px;
+    position: relative;
+    top: 20px;
+}

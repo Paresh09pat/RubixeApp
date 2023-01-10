@@ -1,0 +1,83 @@
+.registration{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(247, 194, 133, 0.952);
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.register1{
+    margin-left:150px;
+    font-size: 39px;
+    padding: 30px;
+    color: whitesmoke;
+}
+
+.label1{
+    font-size: 15px;
+   margin-left: 117px;
+}
+.label2{
+    font-size: 15px;
+    margin-left: 150px;
+    
+}
+.label3{
+    font-size: 15px;
+    margin-left: 110px;
+}
+.label4{
+    font-size: 15px;
+    margin-left: 110px;
+}
+.label5{
+    font-size: 15px;
+    margin-left: 100px;
+}
+.label6{
+    font-size: 15px;
+    margin-left: 145px;
+}
+.label7{
+    font-size: 15px;
+    margin-left: 118px;
+}
+input{
+    height: 30px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 60%;
+    padding-left: 5px;
+
+}
+.btn1{
+    height: 40px;
+    width: 150px;
+    color: whitesmoke;
+    margin-left: 250px;
+    background-color: black;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    cursor: pointer;
+
+}
+::-webkit-scrollbar {
+    width: 7px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgba(128, 128, 128, 0.112); 
+    border-radius: 5px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(123, 118, 118); 
+    border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #331313; 
+  }
